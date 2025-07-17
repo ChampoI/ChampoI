@@ -4,7 +4,7 @@
 
 📍 Cali, Valle del Cauca, Colombia
 
-🔭 Actualmente en busca de trabajo en análisis de datos y soporte técnico en ambientes productivos.  
+🔭 Actualmente en busca de empleo en análisis de datos y soporte técnico en ambientes productivos.  
 👨‍💻 Me especializo en Python, R, PostgreSQL, Machine Learning, y Big Data
 
 ---
