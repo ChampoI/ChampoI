@@ -1,4 +1,4 @@
-# 👋 Hola, soy Juan Pablo Carabalí
+# 👋 Hola, soy Juan Pablo Carabali
 
 **Ingeniero de Sistemas | Data Engineer / Data Scientist**
 
