@@ -23,7 +23,7 @@
 
 ## 🚀 Mi experiencia
 
-- ✅ **Data Engineer / Soporte técnico** en Directv LatAm — optimización de pipelines de datos, administración de bases PostgreSQL.
+- ✅ **Data Engineer / Soporte técnico** en Directv Latam — optimización de pipelines de datos, administración de bases PostgreSQL.
 - ✅ **Análisis de datos** para decisiones estratégicas, presentando visualizaciones impactantes y KPIs a stakeholders clave.
 
 ---
