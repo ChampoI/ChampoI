@@ -38,7 +38,6 @@
 ### 🌱 Actualmente aprendiendo
 
 - Modelado avanzado en Machine Learning
-- Modelado de datos
 - Orquestación de datos con Airflow o Prefect
 - Prácticas de MLOps
 
