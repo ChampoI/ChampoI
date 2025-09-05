@@ -1,50 +1,57 @@
-# 👋 Hola, soy Juan Pablo Carabali
+# 👋 Hola, soy Juan Pablo Carabalí  
 
-**Ingeniero de Sistemas | Data Engineer / Data Scientist**
+**Ingeniero de Sistemas | Data Engineer · Data Scientist**  
 
-📍 Cali, Valle del Cauca, Colombia
-
-🔭 Actualmente en busca de empleo en análisis de datos y soporte técnico en ambientes productivos.  
-👨‍💻 Me especializo en Python, R, PostgreSQL, Machine Learning, y Big Data
+📍 Cali, Valle del Cauca, Colombia  
+📬 Correo: **Champol200@gmail.com** | [LinkedIn](https://www.linkedin.com/in/juan-pablo-carabali/)  
 
 ---
 
-## 🔧 Habilidades técnicas
+## 🚀 Sobre mí  
+Apasionado por los datos y la tecnología, con experiencia en **ingeniería de datos, análisis, machine learning y soporte técnico en ambientes productivos**.  
+He trabajado en la **optimización de pipelines de datos**, administración de bases de datos **PostgreSQL**, y en el **diseño de visualizaciones y KPIs estratégicos** para la toma de decisiones.  
 
-| Área              | Tecnologías y herramientas           |
-|-------------------|--------------------------------------|
-| Lenguajes         | Python · R · SQL                     |
-| Bases de datos    | PostgreSQL · MySQL                   |
-| Data & ML         | Pandas · scikit‑learn · TensorFlow   |
-| BI / Big Data     | Power BI · Hadoop · Spark            |
-| DevOps / Infra    | Docker · Linux                       |
+Actualmente, estoy en búsqueda de oportunidades en **Data Engineering, Data Science o Soporte Técnico especializado en datos**.  
 
 ---
 
-## 🚀 Mi experiencia
+## 🔧 Habilidades técnicas  
 
-- ✅ **Data Engineer / Soporte técnico** en Directv Latam — optimización de pipelines de datos, administración de bases PostgreSQL.
-- ✅ **Análisis de datos** para decisiones estratégicas, presentando visualizaciones impactantes y KPIs a stakeholders clave.
-
----
-
-## 📫 Conectemos
-
-- [LinkedIn](https://www.linkedin.com/in/juan-pablo-carabali/)  
-- 📧 Correo: Champol200@gmail.com
+| Área              | Tecnologías y Herramientas                          |
+|-------------------|------------------------------------------------------|
+| **Lenguajes**     | Python · R · SQL                                     |
+| **Bases de datos**| PostgreSQL · MySQL                                   |
+| **Data & ML**     | Pandas · scikit-learn · TensorFlow                   |
+| **BI / Big Data** | Power BI · Hadoop · Spark                            |
+| **DevOps / Infra**| Docker · Linux · Git                                 |
 
 ---
 
-### 🌱 Actualmente aprendiendo
+## 💼 Experiencia  
 
-- Modelado avanzado en Machine Learning
-- Orquestación de datos con Airflow o Prefect
-- Prácticas de MLOps
+- **Data Engineer / Soporte técnico** en **Directv Latam**  
+  - Optimización de **pipelines de datos** en ambientes productivos.  
+  - Administración y mantenimiento de **bases PostgreSQL**.  
+  - Análisis de datos para la **toma de decisiones estratégicas**.  
+  - Desarrollo de visualizaciones y **KPIs** para stakeholders.  
 
-### ⚡ Intereses
+---
 
-- AI / Machine Learning
-- Big Data
-- Automatización
-- Análisis de datos
+## 🌱 Actualmente aprendiendo  
 
+- Orquestación de datos con **Airflow / Prefect**  
+- Modelado avanzado en **Machine Learning**  
+- Prácticas de **MLOps** y automatización de despliegues  
+
+---
+
+## ⚡ Intereses  
+
+- Inteligencia Artificial & Machine Learning  
+- Big Data y analítica avanzada  
+- Automatización y DevOps  
+- Visualización y Storytelling con datos  
+
+---
+
+✨ Siempre abierto a colaborar en proyectos de **Data Science, Ingeniería de Datos y Machine Learning**.  
