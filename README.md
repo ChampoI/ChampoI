@@ -1,6 +1,6 @@
 # 👋 Hola, soy Juan Pablo Carabalí  
 
-**Ingeniero de Sistemas | Data Engineer · Data Scientist**  
+**Ingeniero de Sistemas | Python Developer | Data Engineer / Data Scientist**  
 
 📍 Cali, Valle del Cauca, Colombia  
 📬 Correo: **Champol200@gmail.com** | [LinkedIn](https://www.linkedin.com/in/juan-pablo-carabali/)  
