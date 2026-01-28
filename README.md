@@ -29,6 +29,19 @@ Actualmente, estoy en búsqueda de oportunidades en **Data Engineering, Data Sci
 
 ## 💼 Experiencia  
 
+## 💼 Experiencia
+
+- **Desarrollador Back-End (Python)** en **PhenoScience**  
+
+  - Desarrollo y mantenimiento de **servicios backend** utilizando **Python, Node.js y Go**, enfocados en **lógica de negocio, rendimiento y escalabilidad**.
+  - Diseño e implementación de **APIs REST** para la integración entre **sistemas y aplicaciones web**.
+  - Colaboración con el equipo **front-end** en la integración de interfaces desarrolladas en **React**, asegurando una correcta **comunicación cliente–servidor**.
+  - Gestión y optimización de **bases de datos SQL y NoSQL** (PostgreSQL, SQL Server, MongoDB).
+  - Automatización de **procesos** y **validación de datos** para mejorar la eficiencia operativa y la **calidad de la información**.
+  - Uso de **Git** para control de versiones y trabajo colaborativo bajo **metodologías ágiles**.
+  - Análisis, **monitoreo** y **resolución de incidencias técnicas** en entornos de desarrollo y producción.
+
+
 - **Data Engineer / Soporte técnico** en **Directv Latam**  
   - Optimización de **pipelines de datos** en ambientes productivos.  
   - Administración y mantenimiento de **bases PostgreSQL**.  
