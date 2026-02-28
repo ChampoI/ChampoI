@@ -18,15 +18,20 @@ Actualmente, estoy en búsqueda de oportunidades en **Data Engineering, Backend 
 
 ---
 
-## 🔧 Habilidades técnicas  
+### 🔧 Habilidades técnicas
 
-| Área              | Tecnologías y Herramientas                          |
-|-------------------|------------------------------------------------------|
-| **Lenguajes**     | Python · R · SQL                                     |
-| **Bases de datos**| PostgreSQL · MySQL                                   |
-| **Data & ML**     | Pandas · scikit-learn · TensorFlow                   |
-| **BI / Big Data** | Power BI · Hadoop · Spark                            |
-| **DevOps / Infra**| Docker · Linux · Git                                 |
+| Área | Tecnologías y Herramientas |
+|------|---------------------------|
+| **Lenguajes** | Python · SQL · Node.js · Go · Java · C++ |
+| **Backend & APIs** | Diseño e implementación de APIs REST · Microservicios · Integración de servicios asincrónicos |
+| **Cloud (AWS & Azure)** | AWS Lambda · API Gateway (REST) · Amazon S3 · Amazon SQS · Amazon SNS · Azure Data Services |
+| **Infraestructura como Código (IaC)** | AWS CDK · CloudFormation |
+| **Bases de datos** | PostgreSQL · SQL Server · MongoDB · Azure SQL Database |
+| **Datos & ETL** | ETL · Validación y automatización de datos · Apache Airflow · Databricks |
+| **Data & ML** | Pandas · Scikit-learn · TensorFlow |
+| **BI & Visualización** | Power BI · Tableau · QGIS |
+| **DevOps / Infra** | Docker · Linux · Git |
+| **Herramientas adicionales** | Jupyter · Google Colab · Excel · Google Sheets |
 
 ---
 
