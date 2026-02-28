@@ -8,10 +8,13 @@
 ---
 
 ## 🚀 Sobre mí  
-Apasionado por los datos y la tecnología, con experiencia en **ingeniería de datos, análisis, machine learning y soporte técnico en ambientes productivos**.  
-He trabajado en la **optimización de pipelines de datos**, administración de bases de datos **PostgreSQL**, y en el **diseño de visualizaciones y KPIs estratégicos** para la toma de decisiones.  
+Soy Ingeniero de Sistemas con experiencia en desarrollo backend y arquitecturas cloud-native sobre AWS. Me especializo en el diseño e implementación de APIs REST, microservicios y soluciones serverless utilizando Python y Node.js, con enfoque en escalabilidad, rendimiento y buenas prácticas de ingeniería.
 
-Actualmente, estoy en búsqueda de oportunidades en **Data Engineering, Data Science o Soporte Técnico especializado en datos**.  
+He trabajado en la construcción e integración de servicios distribuidos, automatización de infraestructura mediante Infrastructure as Code (AWS CDK y CloudFormation) y gestión de bases de datos SQL y NoSQL. Mi experiencia incluye despliegues en entornos productivos, monitoreo de servicios y resolución de incidencias, asegurando estabilidad y continuidad operativa.
+
+Complemento mi perfil con conocimientos en procesamiento y validación de datos, así como certificaciones en AWS, Azure y Databricks, lo que me permite entender tanto la capa de aplicación como la de infraestructura y datos.s.  
+
+Actualmente, estoy en búsqueda de oportunidades en **Data Engineering, Backend Developer o Cloud Engineer Data Science**.  
 
 ---
 
