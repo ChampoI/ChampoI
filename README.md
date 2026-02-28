@@ -14,7 +14,7 @@ He trabajado en la construcción e integración de servicios distribuidos, autom
 
 Complemento mi perfil con conocimientos en procesamiento y validación de datos, así como certificaciones en AWS, Azure y Databricks, lo que me permite entender tanto la capa de aplicación como la de infraestructura y datos.s.  
 
-Actualmente, estoy en búsqueda de oportunidades en **Data Engineering, Backend Developer o Cloud Engineer Data Science**.  
+Actualmente, estoy en búsqueda de oportunidades en **Data Engineering, Backend Developer, Cloud Engineer o Data Science**.  
 
 ---
 
@@ -58,19 +58,30 @@ Actualmente, estoy en búsqueda de oportunidades en **Data Engineering, Backend 
 
 ## 🌱 Actualmente aprendiendo  
 
-- Orquestación de datos con **Airflow / Prefect**  
-- Modelado avanzado en **Machine Learning**  
-- Prácticas de **MLOps** y automatización de despliegues  
+- Orquestación de datos con **Apache Airflow y Prefect**
+- Modelado avanzado en **Machine Learning** (optimización, validación y tuning de modelos)
+- Arquitecturas **MLOps** y automatización de despliegues en entornos cloud
+- Observabilidad y monitoreo de pipelines y microservicios
+- Patrones avanzados de **arquitectura distribuida**
+- Optimización de rendimiento en APIs y servicios backend
+- Mejores prácticas de **Infraestructura como Código (IaC)** en AWS
+- Diseño de sistemas resilientes y escalables
 
 ---
 
 ## ⚡ Intereses  
 
-- Inteligencia Artificial & Machine Learning  
-- Big Data y analítica avanzada  
-- Automatización y DevOps  
-- Visualización y Storytelling con datos  
+- Inteligencia Artificial & Machine Learning aplicado a sistemas productivos
+- Arquitecturas Cloud-Native y Serverless
+- Diseño de Microservicios y APIs escalables
+- Big Data y procesamiento distribuido
+- Automatización e Infraestructura como Código (IaC)
+- DevOps y optimización de despliegues en la nube
+- Integración de servicios distribuidos y sistemas asincrónicos
+- Data Engineering y orquestación ETL
+- Observabilidad, monitoreo y resiliencia de sistemas
+- Visualización y Storytelling con datos
 
 ---
 
-✨ Siempre abierto a colaborar en proyectos de **Data Science, Ingeniería de Datos y Machine Learning**.  
+✨ Siempre abierto a colaborar en proyectos de **Backend Developer, Cloud Engineer, Data ScienceData Science, Ingeniería de Datos y Machine Learning**.  
