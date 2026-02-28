@@ -35,8 +35,6 @@ Actualmente, estoy en búsqueda de oportunidades en **Data Engineering, Backend 
 
 ---
 
-## 💼 Experiencia  
-
 ## 💼 Experiencia
 
 - **Desarrollador Back-End (Python)** en **PhenoScience**  
